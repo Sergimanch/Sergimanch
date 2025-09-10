@@ -1,4 +1,4 @@
-## Hello my name is Sergio an I like programming!
+## Hello my name is Sergio and I like programming!
 
 
 <!--
